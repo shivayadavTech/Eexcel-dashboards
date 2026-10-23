@@ -35,7 +35,7 @@ Yeh repository alag-alag industry domains (Quick Commerce, Retail, Sales, HR, Fi
 ## 👨‍💻 Connect & Hire for Projects
 Custom Excel dashboard development, Power Query automation, ya data reporting tasks ke liye aap mujhse connect kar sakte hain:
 
-* **Fiverr:** [fiverr.com/shivanandyadav](https://www.fiverr.com)
-* **Freelancer:** [freelancer.com/u/shivanandyadav](https://www.freelancer.com)
-* **LinkedIn:** [Shivanand Yadav](https://www.linkedin.com/in/shivanandyadav1/)
+* **LinkedIn:** [Shivanand Yadav](https://www.linkedin.com/in/shivanand-yadav-dev/)
 * **GitHub:** [shivayadavTech](https://github.com/shivayadavTech)
+* **Fiverr:** [fiverr.com/shivanandyadav](https://www.fiverr.com/s/jj69A7m)
+* **Freelancer:** [freelancer.com/u/shivanandyadav](https://www.freelancer.com/u/shivatech26?sb=t)
