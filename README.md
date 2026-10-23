@@ -1,39 +1,39 @@
 # Interactive Excel Dashboards & Business Analytics Portfolio
 
-Welcome to my central repository of interactive **Microsoft Excel Dashboards**, **Automated Business Reports**, and **Data Analytics Projects**. 
+Welcome to my central repository of interactive **Microsoft Excel Dashboards**, **Automated Business Reports**, and **Data Analytics Projects**.
 
-Yeh repository alag-alag industry domains (Quick Commerce, Retail, Sales, HR, Finance) ke real-world datasets par build kiye gaye interactive dashboards aur automated reporting solutions ka comprehensive collection hai.
+This repository houses a comprehensive collection of production-grade business intelligence dashboards and automated reporting solutions built on real-world datasets across multiple domains, including Quick Commerce, Retail, Sales Operations, HR Analytics, and Financial Reporting.
 
 ---
 
-## 🛠️ Core Capabilities & Skills Demonstrated
-* **ETL & Data Cleaning:** Power Query ke zariye complex, dirty aur unorganized raw data ko clean aur normalize karna.
-* **Data Modeling:** Multi-dimensional Pivot Tables, custom calculation backend sheets, aur KPI modeling.
-* **Advanced Formulas:** XLOOKUP, INDEX-MATCH, SUMIFS, dynamic arrays aur statistical functions.
-* **Excel VBA & Automation:** Navigation systems, one-click filter resets, dynamic views aur workflow macros.
-* **Visual Storytelling & UI/UX:** Clean color palettes, custom KPI cards, cross-filtering slicers, aur executive-ready dynamic charts.
+## 🛠️ Core Technical Capabilities
+* **ETL & Data Transformation:** Automated cleaning, restructuring, and normalization of complex, unstructured datasets using **Power Query (M Code)**.
+* **Analytical Data Modeling:** Decoupled architecture using multi-dimensional Pivot Tables, summary calculation engines, and dynamic KPI matrices.
+* **Advanced Formula Engineering:** Complex formulas utilizing `XLOOKUP`, `INDEX-MATCH`, `SUMIFS`, dynamic array functions, and logical calculations.
+* **Excel VBA & Workflow Automation:** Custom user navigation systems, one-click filter resets, event-driven sheet routing, and data refresh automation.
+* **Visual Storytelling & UI/UX:** High-impact business dashboards designed with balanced palettes, custom KPI metric cards, cross-filtering slicers, and interactive charts.
 
 ---
 
 ## 📂 Featured Dashboard Projects
 
-| Project / Folder | Domain / Business Case | Key Tools & Features | View Project |
+| Project / Folder | Business Domain | Key Stack & Features | Repository Link |
 | :--- | :--- | :--- | :--- |
-| **[Blinkit Sales Dashboard](./Blinkit-Sales-Dashboard/)** | Quick Commerce Grocery Sales & Dark-Store Performance | Power Query ETL, Pivot Charts, VBA Navigation & Slicers | [Explore](./Blinkit-Sales-Dashboard/) |
-| *(Upcoming Project)* | Retail & Mobile Sales Analytics | Power BI / Excel, Regional Sales, Customer Insights | *Coming Soon* |
-| *(Upcoming Project)* | HR & Employee Analytics | Attrition Tracking, Demographics, Salary Banding | *Coming Soon* |
+| **[Blinkit Sales Dashboard](./Blinkit-Sales-Dashboard/)** | Quick Commerce Grocery Sales & Dark-Store Operations | Power Query ETL, Pivot Charts, VBA Navigation Bar, Dynamic Slicers | [Explore Project](./Blinkit-Sales-Dashboard/) |
+| *(Upcoming Project)* | Mobile & Retail Sales Analytics | Sales Performance Tracking, Regional Breakdown, Payment Analysis | *Coming Soon* |
+| *(Upcoming Project)* | HR & Workforce Analytics | Employee Attrition Tracking, Demographics, Salary Band Modeling | *Coming Soon* |
 
 ---
 
-## 🚀 How to Explore These Projects
-1. Upar di gayi table se kisi bhi project folder par click karein.
-2. Har project ke andar uska dedicated `README.md` hai jisme core business insights, KPI breakdowns, aur preview screenshots diye gaye hain.
-3. Interactive behavior dekhne ke liye direct `.xlsx` ya `.xlsm` workbook download karke Microsoft Excel me open karein (aur macro-enabled files me *Enable Macros* select karein).
+## 🚀 How to Navigate This Repository
+1. Select any project folder from the table above to view its dedicated documentation.
+2. Each project subfolder contains an individual `README.md` breaking down the business objectives, key performance indicators (KPIs), insights, and preview screenshots.
+3. To interact with the live models, download the respective `.xlsx` or `.xlsm` workbook and open it in Microsoft Excel (ensure you select **Enable Macros** for automated files).
 
 ---
 
 ## 👨‍💻 Connect & Hire for Projects
-Custom Excel dashboard development, Power Query automation, ya data reporting tasks ke liye aap mujhse connect kar sakte hain:
+Available for freelance contracts, custom Excel dashboard development, Power Query ETL pipelines, and reporting automation:
 
 * **LinkedIn:** [Shivanand Yadav](https://www.linkedin.com/in/shivanand-yadav-dev/)
 * **GitHub:** [shivayadavTech](https://github.com/shivayadavTech)
