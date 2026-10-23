@@ -8,7 +8,7 @@ The raw dataset was cleansed and transformed using **Power Query**, modeled thro
 ---
 
 ## Dashboard Preview
-![Blinkit Sales Dashboard Preview](blinkit_dashboard_preview.png)
+![Blinkit Sales Dashboard Preview](https://github.com/shivayadavTech/Eexcel-dashboards/blob/main/Blinkit-Sales-Dashboard/blinkit-data-analysis-dashboard.png)
 
 ---
 
