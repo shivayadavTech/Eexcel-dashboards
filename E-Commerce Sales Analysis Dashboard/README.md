@@ -66,10 +66,10 @@ The workbook is built across organized sheets:
 ---
 
 ## Author & Freelance Services
-**Shivanand Yadav**   
-Front-End Developer | Excel Automation & Dashboard Specialist
+**Shivanand Yadav**  
+*Front-End Developer | Excel Automation & Dashboard Specialist*
 
-Fiverr: fiverr.com/shivanandyadav
-Freelancer: freelancer.com/u/shivanandyadav
-LinkedIn: Shivanand Yadav LinkedIn Profile
-GitHub: shivayadavTech GitHub Profile
+* **Fiverr:** [fiverr.com/shivanandyadav](https://www.fiverr.com)
+* **Freelancer:** [freelancer.com/u/shivanandyadav](https://www.freelancer.com)
+* **LinkedIn:** [Shivanand Yadav LinkedIn Profile](https://www.linkedin.com/in/shivanandyadav1/)
+* **GitHub:** [shivayadavTech GitHub Profile](https://github.com/shivayadavTech)
