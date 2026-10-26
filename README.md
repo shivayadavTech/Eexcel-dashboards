@@ -20,7 +20,7 @@ This repository houses a comprehensive collection of production-grade business i
 | Project / Folder | Business Domain | Key Stack & Features | Repository Link |
 | :--- | :--- | :--- | :--- |
 | **[Blinkit Sales Dashboard](./Blinkit-Sales-Dashboard/)** | Quick Commerce Grocery Sales & Dark-Store Operations | Power Query ETL, Pivot Charts, VBA Navigation Bar, Dynamic Slicers | [Explore Project](./Blinkit-Sales-Dashboard/) |
-| *(Upcoming Project)* | Mobile & Retail Sales Analytics | Sales Performance Tracking, Regional Breakdown, Payment Analysis | *Coming Soon* |
+| **[E-Commerce Sales Analysis Dashboard](./E-Commerce%20Sales%20Analysis%20Dashboard/)** | E-Commerce Sales & Profit BI | Total Sales, Profit Margins, Category/Segment Shares, Slicer Automation | [Explore Project](./E-Commerce%20Sales%20Analysis%20Dashboard/) |
 | *(Upcoming Project)* | HR & Workforce Analytics | Employee Attrition Tracking, Demographics, Salary Band Modeling | *Coming Soon* |
 
 ---
